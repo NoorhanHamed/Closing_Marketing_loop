@@ -1,0 +1,474 @@
+[
+    {
+        "event_name": "Purchase",
+        "event_time": 1776511320,
+        "event_id": "purchase_ord_001",
+        "action_source": "business_messaging",
+        "messaging_channel": "whatsapp",
+        "user_data": {
+            "ctwa_clid": "ARZxK9pQrSt-vN3mFa_xL8wY2Pc4nB6vR1aZ7mK0xT9hQrSt-vN3mFa_xL_001",
+            "whatsapp_business_account_id": "YOUR_WABA_ID",
+            "external_id": [
+                "19bad57c55da1ee6182acb2b40e7d7b5ae3f73c108b80d89571d336e7ac1258d"
+            ],
+            "ph": [
+                "7209412464b5264fa59888c82c21427098bed548b4249f3812c395a9a70a63cd"
+            ],
+            "em": [
+                "c57c870e3715eff7d72e00e57c04cb7bce039fa2b739ac6ed23395a82aeeb145"
+            ],
+            "fn": [
+                "9af2921d3fd57fe886c9022d1fcc055d53a79e4032fa6137e397583884e1a5de"
+            ],
+            "ln": [
+                "575e500ddb529cc2e5b14dd6e7feb389a8b6e0d7c2b162b6bf31831c64d23592"
+            ],
+            "ct": [
+                "bd5d9d2d1f4efef3843f0beb94bdd2b8f694fff794ce5ef0ec39a917b27b0183"
+            ],
+            "country": [
+                "d8c59e8348e0c03f9d2105eed9791438f9aea9586381b79deadbc857eef89d78"
+            ]
+        },
+        "custom_data": {
+            "value": 340.0,
+            "currency": "EGP",
+            "order_id": "ord_001"
+        }
+    },
+    {
+        "event_name": "Purchase",
+        "event_time": 1776953400,
+        "event_id": "purchase_ord_002",
+        "action_source": "business_messaging",
+        "messaging_channel": "whatsapp",
+        "user_data": {
+            "ctwa_clid": "ARJsQpY_pMxFfV9eHzCpYlk7tZ8FvKjGsLwEoR2pMxFfV9eHzCpYlk7tZ_002",
+            "whatsapp_business_account_id": "YOUR_WABA_ID",
+            "external_id": [
+                "8bc004ad1b9213c2a568c69098cc2f4a648e80df418ee311e216b31efec3411a"
+            ],
+            "ph": [
+                "74d37e4d4ac3b0093977146c1b7fb58f6b2f977a5b66e44c8c96826f3d5d6f36"
+            ],
+            "em": [
+                "eb53855007436e92af5069c69c1d362ca61c35c8785f5208f95d07088e99e938"
+            ],
+            "fn": [
+                "3a6d64c24cf80b69ccda37650406467e8266667b50cfd0b984beb3651b129ed7"
+            ],
+            "ln": [
+                "16771578794e44505c9da8b3c2d5b4062bf0047580a1088d2b08a043ce5d2edc"
+            ],
+            "ct": [
+                "f8ce85591c31f9f949a210e89e1337ba902745da3835682d114f55ba720995c9"
+            ],
+            "country": [
+                "d8c59e8348e0c03f9d2105eed9791438f9aea9586381b79deadbc857eef89d78"
+            ]
+        },
+        "custom_data": {
+            "value": 1200.0,
+            "currency": "EGP",
+            "order_id": "ord_002"
+        }
+    },
+    {
+        "event_name": "Purchase",
+        "event_time": 1776865800,
+        "event_id": "purchase_ord_003",
+        "action_source": "business_messaging",
+        "messaging_channel": "whatsapp",
+        "user_data": {
+            "ctwa_clid": "ARkN4xLwQpY3tZmCvBnHfDsErT7yU8oP1aS2dF6gH9jK0lQwErT7yU8oP_003",
+            "whatsapp_business_account_id": "YOUR_WABA_ID",
+            "external_id": [
+                "2a5ad226ff7be23dc12f0745cec9e7e12da2458302dc669faebde99ac998315f"
+            ],
+            "ph": [
+                "e44738a6fdd008b632f53abc670cf0cd8e4bc1d7fd8c3073fa73578a9e58ea5d"
+            ],
+            "fn": [
+                "01a0eedaf62153cf1acefc6322866e67b3dc78c10ed7626ec6d8fe508c589b79"
+            ],
+            "ln": [
+                "b52ef8f216523e7da2be37eeab0efaee9cb9d5187d702e304bf91b61acdd2e58"
+            ],
+            "ct": [
+                "2c03944b432a76bbdbce9d1e4bedaab2acd662bd605457df130d39ed8fbdf03b"
+            ],
+            "country": [
+                "d8c59e8348e0c03f9d2105eed9791438f9aea9586381b79deadbc857eef89d78"
+            ]
+        },
+        "custom_data": {
+            "value": 580.0,
+            "currency": "EGP",
+            "order_id": "ord_003"
+        }
+    },
+    {
+        "event_name": "Purchase",
+        "event_time": 1777897800,
+        "event_id": "purchase_ord_009",
+        "action_source": "business_messaging",
+        "messaging_channel": "whatsapp",
+        "user_data": {
+            "ctwa_clid": null,
+            "whatsapp_business_account_id": "YOUR_WABA_ID",
+            "external_id": [
+                "a6cd14b910c6b812804add8ec4c7d6e7e3b1b1187a824266d3b48418e145f87d"
+            ],
+            "ph": [
+                "3250d77e35960e4013d1dce7c80d0ead9d76ba042859b3d1af8aaf2890518673"
+            ],
+            "em": [
+                "195b2ef735dd9a029275f70ea10d21cf78b7746356500c9b988e18e83c598c4f"
+            ],
+            "fn": [
+                "bf4bcedaacc966a99376cf0ee1b5b23f291e2ed3f79df3f09386435d685ca650"
+            ],
+            "ln": [
+                "783eef82414f06b50a4287010eb1584fb9559b43579fc5cc14aff959df8a48a3"
+            ],
+            "ct": [
+                "ac144dac26cd0975380982c76143eaa91ba83ec9417d72d796aa8013c74167ba"
+            ],
+            "country": [
+                "d8c59e8348e0c03f9d2105eed9791438f9aea9586381b79deadbc857eef89d78"
+            ]
+        },
+        "custom_data": {
+            "value": 580.0,
+            "currency": "EGP",
+            "order_id": "ord_009"
+        }
+    },
+    {
+        "event_name": "Purchase",
+        "event_time": 1777994400,
+        "event_id": "purchase_ord_010",
+        "action_source": "business_messaging",
+        "messaging_channel": "whatsapp",
+        "user_data": {
+            "ctwa_clid": null,
+            "whatsapp_business_account_id": "YOUR_WABA_ID",
+            "external_id": [
+                "2185c47b0ca7ff82a08c4bb84026df945744f05165768e5e94f6d141049fb7d6"
+            ],
+            "ph": [
+                "7699606fc1c0404d6d1a425f3adec1b4e23537eb6dc2333328008c5750961ddd"
+            ],
+            "fn": [
+                "5a43516885a4de8583b53322aad977925cceaef3d4b3f679772ad4a42cb658e2"
+            ],
+            "ct": [
+                "6b5c584116e6f1691c0037995ce7c9a6462b97e19a79a53f810701aa3b448d69"
+            ],
+            "country": [
+                "d8c59e8348e0c03f9d2105eed9791438f9aea9586381b79deadbc857eef89d78"
+            ]
+        },
+        "custom_data": {
+            "value": 340.0,
+            "currency": "EGP",
+            "order_id": "ord_010"
+        }
+    },
+    {
+        "event_name": "Purchase",
+        "event_time": 1776777000,
+        "event_id": "purchase_ord_011a",
+        "action_source": "business_messaging",
+        "messaging_channel": "whatsapp",
+        "user_data": {
+            "ctwa_clid": "ARxLwQpY3tZmCvBnHfDsErT7yU8oP1aS2dFARxLwQpY3tZmCvBnHfDsErT7y_011a",
+            "whatsapp_business_account_id": "YOUR_WABA_ID",
+            "external_id": [
+                "330198d79508df74ed38d2fe31a7ff2c25ff99dbf4041c681489820bf136cc25"
+            ],
+            "ph": [
+                "594a3c8ccdd8d5b762c3b880c29ec4cacd7f8d41450a10d68837b1ce638881ea"
+            ],
+            "em": [
+                "1b0dcfacc8850c0c7bb24c7e459576646bbc799b647f95d583633e2586272736"
+            ],
+            "fn": [
+                "faf54c7b56a68006ed70ec1ce5157a9c3af79a958954270f686a12a0b3160e59"
+            ],
+            "ln": [
+                "5a43516885a4de8583b53322aad977925cceaef3d4b3f679772ad4a42cb658e2"
+            ],
+            "ct": [
+                "dca0eb111e7d38a11a12b82b56855ff760b60dac5b5324619f477d2628dd2ac9"
+            ],
+            "country": [
+                "d8c59e8348e0c03f9d2105eed9791438f9aea9586381b79deadbc857eef89d78"
+            ]
+        },
+        "custom_data": {
+            "value": 340.0,
+            "currency": "EGP",
+            "order_id": "ord_011a"
+        }
+    },
+    {
+        "event_name": "Purchase",
+        "event_time": 1778423400,
+        "event_id": "purchase_ord_011b",
+        "action_source": "business_messaging",
+        "messaging_channel": "whatsapp",
+        "user_data": {
+            "ctwa_clid": null,
+            "whatsapp_business_account_id": "YOUR_WABA_ID",
+            "external_id": [
+                "330198d79508df74ed38d2fe31a7ff2c25ff99dbf4041c681489820bf136cc25"
+            ],
+            "ph": [
+                "594a3c8ccdd8d5b762c3b880c29ec4cacd7f8d41450a10d68837b1ce638881ea"
+            ],
+            "em": [
+                "1b0dcfacc8850c0c7bb24c7e459576646bbc799b647f95d583633e2586272736"
+            ],
+            "fn": [
+                "faf54c7b56a68006ed70ec1ce5157a9c3af79a958954270f686a12a0b3160e59"
+            ],
+            "ln": [
+                "5a43516885a4de8583b53322aad977925cceaef3d4b3f679772ad4a42cb658e2"
+            ],
+            "ct": [
+                "dca0eb111e7d38a11a12b82b56855ff760b60dac5b5324619f477d2628dd2ac9"
+            ],
+            "country": [
+                "d8c59e8348e0c03f9d2105eed9791438f9aea9586381b79deadbc857eef89d78"
+            ]
+        },
+        "custom_data": {
+            "value": 340.0,
+            "currency": "EGP",
+            "order_id": "ord_011b"
+        }
+    },
+    {
+        "event_name": "Purchase",
+        "event_time": 1776078000,
+        "event_id": "purchase_ord_012a",
+        "action_source": "business_messaging",
+        "messaging_channel": "whatsapp",
+        "user_data": {
+            "ctwa_clid": "ARyU8oP1aS2dF6gH9jK0lQwErT7yU8oPARyU8oP1aS2dF6gH9jK0lQwErT7y_012a",
+            "whatsapp_business_account_id": "YOUR_WABA_ID",
+            "external_id": [
+                "5d56c868ee0d602daf5032058d326c8b9e0568ae023c58a062155200aa75a5ce"
+            ],
+            "ph": [
+                "f8b62d9f86e5bfc70f5fed1228ef51b602282a442a5aea99ee719dacbed08632"
+            ],
+            "em": [
+                "41d0751c117ad066253e4f7397cb82c46a8487c527a2c992a71fbe7cda7a2213"
+            ],
+            "fn": [
+                "9f2dc5e00cd45dbe439a4cd18638e6630941cf4a34bdbe86017ae8513a69ebe2"
+            ],
+            "ln": [
+                "783eef82414f06b50a4287010eb1584fb9559b43579fc5cc14aff959df8a48a3"
+            ],
+            "ct": [
+                "3a1f749bd0ad6bcc167a23860216b1b786158f8a315f8f5727931ec21840d5bf"
+            ],
+            "country": [
+                "d8c59e8348e0c03f9d2105eed9791438f9aea9586381b79deadbc857eef89d78"
+            ]
+        },
+        "custom_data": {
+            "value": 1800.0,
+            "currency": "EGP",
+            "order_id": "ord_012a"
+        }
+    },
+    {
+        "event_name": "Purchase",
+        "event_time": 1777564800,
+        "event_id": "purchase_ord_012b",
+        "action_source": "business_messaging",
+        "messaging_channel": "whatsapp",
+        "user_data": {
+            "ctwa_clid": null,
+            "whatsapp_business_account_id": "YOUR_WABA_ID",
+            "external_id": [
+                "5d56c868ee0d602daf5032058d326c8b9e0568ae023c58a062155200aa75a5ce"
+            ],
+            "ph": [
+                "f8b62d9f86e5bfc70f5fed1228ef51b602282a442a5aea99ee719dacbed08632"
+            ],
+            "em": [
+                "41d0751c117ad066253e4f7397cb82c46a8487c527a2c992a71fbe7cda7a2213"
+            ],
+            "fn": [
+                "9f2dc5e00cd45dbe439a4cd18638e6630941cf4a34bdbe86017ae8513a69ebe2"
+            ],
+            "ln": [
+                "783eef82414f06b50a4287010eb1584fb9559b43579fc5cc14aff959df8a48a3"
+            ],
+            "ct": [
+                "3a1f749bd0ad6bcc167a23860216b1b786158f8a315f8f5727931ec21840d5bf"
+            ],
+            "country": [
+                "d8c59e8348e0c03f9d2105eed9791438f9aea9586381b79deadbc857eef89d78"
+            ]
+        },
+        "custom_data": {
+            "value": 2100.0,
+            "currency": "EGP",
+            "order_id": "ord_012b"
+        }
+    },
+    {
+        "event_name": "Purchase",
+        "event_time": 1779022800,
+        "event_id": "purchase_ord_012c",
+        "action_source": "business_messaging",
+        "messaging_channel": "whatsapp",
+        "user_data": {
+            "ctwa_clid": null,
+            "whatsapp_business_account_id": "YOUR_WABA_ID",
+            "external_id": [
+                "5d56c868ee0d602daf5032058d326c8b9e0568ae023c58a062155200aa75a5ce"
+            ],
+            "ph": [
+                "f8b62d9f86e5bfc70f5fed1228ef51b602282a442a5aea99ee719dacbed08632"
+            ],
+            "em": [
+                "41d0751c117ad066253e4f7397cb82c46a8487c527a2c992a71fbe7cda7a2213"
+            ],
+            "fn": [
+                "9f2dc5e00cd45dbe439a4cd18638e6630941cf4a34bdbe86017ae8513a69ebe2"
+            ],
+            "ln": [
+                "783eef82414f06b50a4287010eb1584fb9559b43579fc5cc14aff959df8a48a3"
+            ],
+            "ct": [
+                "3a1f749bd0ad6bcc167a23860216b1b786158f8a315f8f5727931ec21840d5bf"
+            ],
+            "country": [
+                "d8c59e8348e0c03f9d2105eed9791438f9aea9586381b79deadbc857eef89d78"
+            ]
+        },
+        "custom_data": {
+            "value": 2100.0,
+            "currency": "EGP",
+            "order_id": "ord_012c"
+        }
+    },
+    {
+        "event_name": "Purchase",
+        "event_time": 1778673600,
+        "event_id": "purchase_ord_015a",
+        "action_source": "business_messaging",
+        "messaging_channel": "whatsapp",
+        "user_data": {
+            "ctwa_clid": "ARvN3mFa_xL8wY2Pc4nB6vR1aZ7mK0xT9hQrSt-ARvN3mFa_xL8wY2Pc4nB6_015",
+            "whatsapp_business_account_id": "YOUR_WABA_ID",
+            "external_id": [
+                "51b64d16cfaaf1d66ca1e75ba199dd825650bd34041759b68b09b82ecbfbcf4b"
+            ],
+            "ph": [
+                "32f9ba6b7f95bc29418a0cec4fd9feeb834191677ee0fc8efea63bd3766ded9a"
+            ],
+            "em": [
+                "73426bb1890224858e83d565254802f0535eca5a1f3b56abd69e959512d4c759"
+            ],
+            "fn": [
+                "575e500ddb529cc2e5b14dd6e7feb389a8b6e0d7c2b162b6bf31831c64d23592"
+            ],
+            "ln": [
+                "c7671f0cf3c584e0f6945dd7a364f2417e37629db0a48e49b25fc2a089c642e8"
+            ],
+            "ct": [
+                "bd5d9d2d1f4efef3843f0beb94bdd2b8f694fff794ce5ef0ec39a917b27b0183"
+            ],
+            "country": [
+                "d8c59e8348e0c03f9d2105eed9791438f9aea9586381b79deadbc857eef89d78"
+            ]
+        },
+        "custom_data": {
+            "value": 920.0,
+            "currency": "EGP",
+            "order_id": "ord_015a"
+        }
+    },
+    {
+        "event_name": "Purchase",
+        "event_time": 1778758200,
+        "event_id": "purchase_ord_015b",
+        "action_source": "business_messaging",
+        "messaging_channel": "whatsapp",
+        "user_data": {
+            "ctwa_clid": "ARvN3mFa_xL8wY2Pc4nB6vR1aZ7mK0xT9hQrSt-ARvN3mFa_xL8wY2Pc4nB6_015",
+            "whatsapp_business_account_id": "YOUR_WABA_ID",
+            "external_id": [
+                "51b64d16cfaaf1d66ca1e75ba199dd825650bd34041759b68b09b82ecbfbcf4b"
+            ],
+            "ph": [
+                "32f9ba6b7f95bc29418a0cec4fd9feeb834191677ee0fc8efea63bd3766ded9a"
+            ],
+            "em": [
+                "73426bb1890224858e83d565254802f0535eca5a1f3b56abd69e959512d4c759"
+            ],
+            "fn": [
+                "575e500ddb529cc2e5b14dd6e7feb389a8b6e0d7c2b162b6bf31831c64d23592"
+            ],
+            "ln": [
+                "c7671f0cf3c584e0f6945dd7a364f2417e37629db0a48e49b25fc2a089c642e8"
+            ],
+            "ct": [
+                "bd5d9d2d1f4efef3843f0beb94bdd2b8f694fff794ce5ef0ec39a917b27b0183"
+            ],
+            "country": [
+                "d8c59e8348e0c03f9d2105eed9791438f9aea9586381b79deadbc857eef89d78"
+            ]
+        },
+        "custom_data": {
+            "value": 320.0,
+            "currency": "EGP",
+            "order_id": "ord_015b"
+        }
+    },
+    {
+        "event_name": "Purchase",
+        "event_time": 1779454800,
+        "event_id": "purchase_ord_018",
+        "action_source": "business_messaging",
+        "messaging_channel": "whatsapp",
+        "user_data": {
+            "ctwa_clid": "ARpZxYwQ-vR3mFa_xL8nB6vR1aZ7mK0xT9hQrSt-ARpZxYwQ-vR3mFa_xL_018",
+            "whatsapp_business_account_id": "YOUR_WABA_ID",
+            "external_id": [
+                "19bad57c55da1ee6182acb2b40e7d7b5ae3f73c108b80d89571d336e7ac1258d"
+            ],
+            "ph": [
+                "7209412464b5264fa59888c82c21427098bed548b4249f3812c395a9a70a63cd"
+            ],
+            "em": [
+                "c57c870e3715eff7d72e00e57c04cb7bce039fa2b739ac6ed23395a82aeeb145"
+            ],
+            "fn": [
+                "9af2921d3fd57fe886c9022d1fcc055d53a79e4032fa6137e397583884e1a5de"
+            ],
+            "ln": [
+                "575e500ddb529cc2e5b14dd6e7feb389a8b6e0d7c2b162b6bf31831c64d23592"
+            ],
+            "ct": [
+                "bd5d9d2d1f4efef3843f0beb94bdd2b8f694fff794ce5ef0ec39a917b27b0183"
+            ],
+            "country": [
+                "d8c59e8348e0c03f9d2105eed9791438f9aea9586381b79deadbc857eef89d78"
+            ]
+        },
+        "custom_data": {
+            "value": 1800.0,
+            "currency": "EGP",
+            "order_id": "ord_018"
+        }
+    }
+]
