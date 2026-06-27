@@ -1,0 +1,366 @@
+[
+  {
+    "id": "conv_001",
+    "account_id": "account_001",
+    "customer_id": "cust_001",
+    "started_at": "2026-04-15T14:42:00Z",
+    "last_message_at": "2026-04-15T14:51:00Z",
+    "status": "closed",
+    "message_count": 6,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARZxK9pQrSt-vN3mFa_xL8wY2Pc4nB6vR1aZ7mK0xT9hQrSt-vN3mFa_xL_001",
+      "ad_id": "120209876543210001",
+      "campaign_id": "120209876543220001",
+      "creative_id": "120209876543230001",
+      "headline": "Limited stock — message us",
+      "body": "Last pieces of the summer collection. Reply now to reserve yours.",
+      "source_url": "https://fb.me/2dF8sJk7L"
+    }
+  },
+  {
+    "id": "conv_002",
+    "account_id": "account_001",
+    "customer_id": "cust_002",
+    "started_at": "2026-04-17T10:18:00Z",
+    "last_message_at": "2026-04-17T10:25:00Z",
+    "status": "closed",
+    "message_count": 6,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARJsQpY_pMxFfV9eHzCpYlk7tZ8FvKjGsLwEoR2pMxFfV9eHzCpYlk7tZ_002",
+      "ad_id": "120209876543210005",
+      "campaign_id": "120209876543220003",
+      "creative_id": "120209876543230004",
+      "headline": "New premium line — exclusive launch",
+      "body": "Discover the new premium collection. Installment payments available.",
+      "source_url": "https://www.facebook.com/12345/posts/67891"
+    }
+  },
+  {
+    "id": "conv_003",
+    "account_id": "account_001",
+    "customer_id": "cust_003",
+    "started_at": "2026-04-20T16:30:00Z",
+    "last_message_at": "2026-04-20T16:40:00Z",
+    "status": "closed",
+    "message_count": 6,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARkN4xLwQpY3tZmCvBnHfDsErT7yU8oP1aS2dF6gH9jK0lQwErT7yU8oP_003",
+      "ad_id": "120209876543210003",
+      "campaign_id": "120209876543220002",
+      "creative_id": "120209876543230003",
+      "headline": "30% off the bundle",
+      "body": "Bundle deal: get the full set with one click. Limited offer.",
+      "source_url": "https://www.instagram.com/p/ABCdef123/"
+    }
+  },
+  {
+    "id": "conv_004",
+    "account_id": "account_001",
+    "customer_id": "cust_004",
+    "started_at": "2026-04-22T11:05:00Z",
+    "last_message_at": "2026-04-22T11:08:00Z",
+    "status": "closed",
+    "message_count": 3,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARpQ9xKjLwEoR2nVmSfDtHgYcXbZ5wQ8vR1aP6mK4xT0hF3jL7nB2vR9aZ_004",
+      "ad_id": "120209876543210002",
+      "campaign_id": "120209876543220001",
+      "creative_id": "120209876543230002",
+      "headline": "Free delivery in Cairo this week",
+      "body": "Order now — free delivery on all orders in Greater Cairo.",
+      "source_url": "https://fb.me/3sK1mNp4Q"
+    }
+  },
+  {
+    "id": "conv_005",
+    "account_id": "account_001",
+    "customer_id": "cust_005",
+    "started_at": "2026-04-23T19:14:00Z",
+    "last_message_at": "2026-04-23T19:15:00Z",
+    "status": "closed",
+    "message_count": 2,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARgVcXbZ5wQ8vR1aP6mK4xT0hF3jL7nB2vR9aZ7mK0xT9hARgVcXbZ5wQ8vR_005",
+      "ad_id": "120209876543210001",
+      "campaign_id": "120209876543220001",
+      "creative_id": "120209876543230001",
+      "headline": "Limited stock — message us",
+      "body": "Last pieces of the summer collection. Reply now to reserve yours.",
+      "source_url": "https://fb.me/2dF8sJk7L"
+    }
+  },
+  {
+    "id": "conv_006",
+    "account_id": "account_001",
+    "customer_id": "cust_006",
+    "started_at": "2026-04-25T13:22:00Z",
+    "last_message_at": "2026-04-26T10:01:00Z",
+    "status": "closed",
+    "message_count": 8,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARtFsErT7yU8oP1aS2dF6gH9jK0lQwErT7yU8oP1aARtFsErT7yU8oP1aS2_006",
+      "ad_id": "120209876543210001",
+      "campaign_id": "120209876543220001",
+      "creative_id": "120209876543230001",
+      "headline": "Limited stock — message us",
+      "body": "Last pieces of the summer collection. Reply now to reserve yours.",
+      "source_url": "https://fb.me/2dF8sJk7L"
+    }
+  },
+  {
+    "id": "conv_007",
+    "account_id": "account_001",
+    "customer_id": "cust_007",
+    "started_at": "2026-04-26T09:40:00Z",
+    "last_message_at": "2026-04-27T14:30:00Z",
+    "status": "closed",
+    "message_count": 7,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARwBnHfDsErT7yU8oP1aS2dF6gH9jKARwBnHfDsErT7yU8oP1aS2dF6gH9_007",
+      "ad_id": "120209876543210004",
+      "campaign_id": "120209876543220002",
+      "creative_id": "120209876543230003",
+      "headline": "30% off the bundle",
+      "body": "Bundle deal: get the full set with one click. Limited offer.",
+      "source_url": "https://www.facebook.com/12345/posts/67892"
+    }
+  },
+  {
+    "id": "conv_008",
+    "account_id": "account_001",
+    "customer_id": "cust_008",
+    "started_at": "2026-04-28T15:11:00Z",
+    "last_message_at": "2026-05-16T13:00:00Z",
+    "status": "closed",
+    "message_count": 7,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARqW8vR1aP6mK4xT0hF3jL7nB2vR9aZ7mK0xT9hARqW8vR1aP6mK4xT0hF3_008",
+      "ad_id": "120209876543210002",
+      "campaign_id": "120209876543220001",
+      "creative_id": "120209876543230002",
+      "headline": "Free delivery in Cairo this week",
+      "body": "Order now — free delivery on all orders in Greater Cairo.",
+      "source_url": "https://fb.me/3sK1mNp4Q"
+    }
+  },
+  {
+    "id": "conv_009",
+    "account_id": "account_001",
+    "customer_id": "cust_009",
+    "started_at": "2026-05-01T11:00:00Z",
+    "last_message_at": "2026-05-01T11:08:00Z",
+    "status": "closed",
+    "message_count": 4,
+    "source": {
+      "platform": "organic"
+    }
+  },
+  {
+    "id": "conv_010",
+    "account_id": "account_001",
+    "customer_id": "cust_010",
+    "started_at": "2026-05-03T17:25:00Z",
+    "last_message_at": "2026-05-03T17:35:00Z",
+    "status": "closed",
+    "message_count": 6,
+    "source": {
+      "platform": "organic"
+    }
+  },
+  {
+    "id": "conv_011a",
+    "account_id": "account_001",
+    "customer_id": "cust_011",
+    "started_at": "2026-04-18T12:00:00Z",
+    "last_message_at": "2026-04-18T12:05:00Z",
+    "status": "closed",
+    "message_count": 4,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARxLwQpY3tZmCvBnHfDsErT7yU8oP1aS2dFARxLwQpY3tZmCvBnHfDsErT7y_011a",
+      "ad_id": "120209876543210005",
+      "campaign_id": "120209876543220003",
+      "creative_id": "120209876543230004",
+      "headline": "New premium line — exclusive launch",
+      "body": "Discover the new premium collection. Installment payments available.",
+      "source_url": "https://www.facebook.com/12345/posts/67891"
+    }
+  },
+  {
+    "id": "conv_011b",
+    "account_id": "account_001",
+    "customer_id": "cust_011",
+    "started_at": "2026-05-08T10:00:00Z",
+    "last_message_at": "2026-05-08T10:05:00Z",
+    "status": "closed",
+    "message_count": 4,
+    "source": {
+      "platform": "organic"
+    }
+  },
+  {
+    "id": "conv_012a",
+    "account_id": "account_001",
+    "customer_id": "cust_012",
+    "started_at": "2026-04-10T14:50:00Z",
+    "last_message_at": "2026-04-10T14:55:00Z",
+    "status": "closed",
+    "message_count": 4,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARyU8oP1aS2dF6gH9jK0lQwErT7yU8oPARyU8oP1aS2dF6gH9jK0lQwErT7y_012a",
+      "ad_id": "120209876543210005",
+      "campaign_id": "120209876543220003",
+      "creative_id": "120209876543230004",
+      "headline": "New premium line — exclusive launch",
+      "body": "Discover the new premium collection. Installment payments available.",
+      "source_url": "https://www.facebook.com/12345/posts/67891"
+    }
+  },
+  {
+    "id": "conv_012b",
+    "account_id": "account_001",
+    "customer_id": "cust_012",
+    "started_at": "2026-04-28T16:00:00Z",
+    "last_message_at": "2026-04-28T16:07:00Z",
+    "status": "closed",
+    "message_count": 6,
+    "source": {
+      "platform": "organic"
+    }
+  },
+  {
+    "id": "conv_012c",
+    "account_id": "account_001",
+    "customer_id": "cust_012",
+    "started_at": "2026-05-15T11:30:00Z",
+    "last_message_at": "2026-05-15T11:34:00Z",
+    "status": "closed",
+    "message_count": 4,
+    "source": {
+      "platform": "organic"
+    }
+  },
+  {
+    "id": "conv_013",
+    "account_id": "account_001",
+    "customer_id": "cust_013",
+    "started_at": "2026-05-05T10:30:00Z",
+    "last_message_at": "2026-05-05T10:46:00Z",
+    "status": "closed",
+    "message_count": 13,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARmK0xT9hQrSt-vN3mFa_xL8wY2Pc4nB6vRARmK0xT9hQrSt-vN3mFa_xL8w_013",
+      "ad_id": "120209876543210004",
+      "campaign_id": "120209876543220002",
+      "creative_id": "120209876543230003",
+      "headline": "30% off the bundle",
+      "body": "Bundle deal: get the full set with one click. Limited offer.",
+      "source_url": "https://www.facebook.com/12345/posts/67892"
+    }
+  },
+  {
+    "id": "conv_014",
+    "account_id": "account_001",
+    "customer_id": "cust_014",
+    "started_at": "2026-05-07T08:15:00Z",
+    "last_message_at": "2026-05-07T08:19:00Z",
+    "status": "closed",
+    "message_count": 4,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARsT-vN3mFa_xL8wY2Pc4nB6vR1aZ7mK0xT9hQrARsT-vN3mFa_xL8wY2Pc4_014",
+      "ad_id": "120209876543210001",
+      "campaign_id": "120209876543220001",
+      "creative_id": "120209876543230001",
+      "headline": "Limited stock — message us",
+      "body": "Last pieces of the summer collection. Reply now to reserve yours.",
+      "source_url": "https://fb.me/2dF8sJk7L"
+    }
+  },
+  {
+    "id": "conv_015",
+    "account_id": "account_001",
+    "customer_id": "cust_015",
+    "started_at": "2026-05-10T13:20:00Z",
+    "last_message_at": "2026-05-10T13:32:00Z",
+    "status": "closed",
+    "message_count": 8,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARvN3mFa_xL8wY2Pc4nB6vR1aZ7mK0xT9hQrSt-ARvN3mFa_xL8wY2Pc4nB6_015",
+      "ad_id": "120209876543210005",
+      "campaign_id": "120209876543220003",
+      "creative_id": "120209876543230004",
+      "headline": "New premium line — exclusive launch",
+      "body": "Discover the new premium collection. Installment payments available.",
+      "source_url": "https://www.facebook.com/12345/posts/67891"
+    }
+  },
+  {
+    "id": "conv_016",
+    "account_id": "account_001",
+    "customer_id": "cust_016",
+    "started_at": "2026-05-22T08:30:00Z",
+    "last_message_at": "2026-05-22T10:45:00Z",
+    "status": "active",
+    "message_count": 4,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARyT7uIoP9wQ-eRtY5uIoLkJ-hGfDsAaZxXcVbN1mPq3eRtY5uIoLkJ-hG_016",
+      "ad_id": "120209876543210002",
+      "campaign_id": "120209876543220001",
+      "creative_id": "120209876543230002",
+      "headline": "Free delivery in Cairo this week",
+      "body": "Order now — free delivery on all orders in Greater Cairo.",
+      "source_url": "https://fb.me/3sK1mNp4Q"
+    }
+  },
+  {
+    "id": "conv_017",
+    "account_id": "account_001",
+    "customer_id": "cust_017",
+    "started_at": "2026-05-15T10:00:00Z",
+    "last_message_at": "2026-05-15T10:14:00Z",
+    "status": "closed",
+    "message_count": 5,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARkLpQ9wRtYuIoP1aS2dF6gH9jK0lQwErT7yU8oPARkLpQ9wRtYuIoP1aS2_017",
+      "ad_id": "120209876543210003",
+      "campaign_id": "120209876543220002",
+      "creative_id": "120209876543230003",
+      "headline": "30% off the bundle",
+      "body": "Bundle deal: get the full set with one click. Limited offer.",
+      "source_url": "https://www.facebook.com/12345/posts/67892"
+    }
+  },
+  {
+    "id": "conv_018",
+    "account_id": "account_001",
+    "customer_id": "cust_001",
+    "started_at": "2026-05-20T18:00:00Z",
+    "last_message_at": "2026-05-20T18:08:00Z",
+    "status": "closed",
+    "message_count": 5,
+    "source": {
+      "platform": "meta_ctwa",
+      "ctwa_clid": "ARpZxYwQ-vR3mFa_xL8nB6vR1aZ7mK0xT9hQrSt-ARpZxYwQ-vR3mFa_xL_018",
+      "ad_id": "120209876543210005",
+      "campaign_id": "120209876543220003",
+      "creative_id": "120209876543230004",
+      "headline": "New premium line — exclusive launch",
+      "body": "Discover the new premium collection. Installment payments available.",
+      "source_url": "https://www.facebook.com/12345/posts/67891"
+    }
+  }
+]

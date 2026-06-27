@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ord_001",
+    "account_id": "account_001",
+    "customer_id": "cust_001",
+    "conversation_id": "conv_001",
+    "created_at": "2026-04-15T14:51:00Z",
+    "updated_at": "2026-04-18T11:22:00Z",
+    "status": "delivered",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-04-15T14:51:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-04-15T15:30:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-04-16T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-04-16T15:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-04-18T11:22:00Z" }
+    ],
+    "total": 340,
+    "currency": "EGP",
+    "payment_method": "cod_cash"
+  },
+  {
+    "id": "ord_002",
+    "account_id": "account_001",
+    "customer_id": "cust_002",
+    "conversation_id": "conv_002",
+    "created_at": "2026-04-17T10:25:00Z",
+    "updated_at": "2026-04-23T14:10:00Z",
+    "status": "delivered",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-04-17T10:25:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-04-17T11:00:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-04-19T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-04-21T11:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-04-23T14:10:00Z" }
+    ],
+    "total": 1200,
+    "currency": "EGP",
+    "payment_method": "bnpl"
+  },
+  {
+    "id": "ord_003",
+    "account_id": "account_001",
+    "customer_id": "cust_003",
+    "conversation_id": "conv_003",
+    "created_at": "2026-04-20T16:40:00Z",
+    "updated_at": "2026-04-22T13:50:00Z",
+    "status": "delivered",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-04-20T16:40:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-04-20T16:45:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-04-21T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-04-21T16:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-04-22T13:50:00Z" }
+    ],
+    "total": 580,
+    "currency": "EGP",
+    "payment_method": "card"
+  },
+  {
+    "id": "ord_006",
+    "account_id": "account_001",
+    "customer_id": "cust_006",
+    "conversation_id": "conv_006",
+    "created_at": "2026-04-25T13:35:00Z",
+    "updated_at": "2026-04-26T10:00:00Z",
+    "status": "cancelled",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-04-25T13:35:00Z" },
+      { "from": "pending", "to": "cancelled", "at": "2026-04-26T10:00:00Z" }
+    ],
+    "total": 340,
+    "currency": "EGP",
+    "payment_method": "cod_cash"
+  },
+  {
+    "id": "ord_007",
+    "account_id": "account_001",
+    "customer_id": "cust_007",
+    "conversation_id": "conv_007",
+    "created_at": "2026-04-26T09:45:00Z",
+    "updated_at": "2026-04-27T14:30:00Z",
+    "status": "cancelled",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-04-26T09:45:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-04-26T10:00:00Z" },
+      { "from": "confirmed", "to": "cancelled", "at": "2026-04-27T14:30:00Z" }
+    ],
+    "total": 340,
+    "currency": "EGP",
+    "payment_method": "cod_cash"
+  },
+  {
+    "id": "ord_008",
+    "account_id": "account_001",
+    "customer_id": "cust_008",
+    "conversation_id": "conv_008",
+    "created_at": "2026-04-28T15:18:00Z",
+    "updated_at": "2026-05-16T13:00:00Z",
+    "status": "refunded",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-04-28T15:18:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-04-28T16:00:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-04-29T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-04-30T10:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-05-02T11:00:00Z" },
+      { "from": "delivered", "to": "refunded", "at": "2026-05-16T13:00:00Z" }
+    ],
+    "total": 340,
+    "currency": "EGP",
+    "payment_method": "cod_cash"
+  },
+  {
+    "id": "ord_009",
+    "account_id": "account_001",
+    "customer_id": "cust_009",
+    "conversation_id": "conv_009",
+    "created_at": "2026-05-01T11:08:00Z",
+    "updated_at": "2026-05-04T12:30:00Z",
+    "status": "delivered",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-05-01T11:08:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-05-01T11:30:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-05-02T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-05-02T16:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-05-04T12:30:00Z" }
+    ],
+    "total": 580,
+    "currency": "EGP",
+    "payment_method": "cod_cash"
+  },
+  {
+    "id": "ord_010",
+    "account_id": "account_001",
+    "customer_id": "cust_010",
+    "conversation_id": "conv_010",
+    "created_at": "2026-05-03T17:35:00Z",
+    "updated_at": "2026-05-05T15:20:00Z",
+    "status": "delivered",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-05-03T17:35:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-05-03T18:00:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-05-04T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-05-04T16:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-05-05T15:20:00Z" }
+    ],
+    "total": 340,
+    "currency": "EGP",
+    "payment_method": "cod_cash"
+  },
+  {
+    "id": "ord_011a",
+    "account_id": "account_001",
+    "customer_id": "cust_011",
+    "conversation_id": "conv_011a",
+    "created_at": "2026-04-18T12:05:00Z",
+    "updated_at": "2026-04-21T13:10:00Z",
+    "status": "delivered",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-04-18T12:05:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-04-18T12:30:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-04-19T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-04-19T16:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-04-21T13:10:00Z" }
+    ],
+    "total": 340,
+    "currency": "EGP",
+    "payment_method": "cod_cash"
+  },
+  {
+    "id": "ord_011b",
+    "account_id": "account_001",
+    "customer_id": "cust_011",
+    "conversation_id": "conv_011b",
+    "created_at": "2026-05-08T10:05:00Z",
+    "updated_at": "2026-05-10T14:30:00Z",
+    "status": "delivered",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-05-08T10:05:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-05-08T11:00:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-05-09T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-05-09T16:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-05-10T14:30:00Z" }
+    ],
+    "total": 340,
+    "currency": "EGP",
+    "payment_method": "cod_cash"
+  },
+  {
+    "id": "ord_012a",
+    "account_id": "account_001",
+    "customer_id": "cust_012",
+    "conversation_id": "conv_012a",
+    "created_at": "2026-04-10T14:55:00Z",
+    "updated_at": "2026-04-13T11:00:00Z",
+    "status": "delivered",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-04-10T14:55:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-04-10T15:10:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-04-11T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-04-11T15:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-04-13T11:00:00Z" }
+    ],
+    "total": 1800,
+    "currency": "EGP",
+    "payment_method": "card"
+  },
+  {
+    "id": "ord_012b",
+    "account_id": "account_001",
+    "customer_id": "cust_012",
+    "conversation_id": "conv_012b",
+    "created_at": "2026-04-28T16:07:00Z",
+    "updated_at": "2026-04-30T16:00:00Z",
+    "status": "delivered",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-04-28T16:07:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-04-28T16:20:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-04-29T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-04-29T15:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-04-30T16:00:00Z" }
+    ],
+    "total": 2100,
+    "currency": "EGP",
+    "payment_method": "card"
+  },
+  {
+    "id": "ord_012c",
+    "account_id": "account_001",
+    "customer_id": "cust_012",
+    "conversation_id": "conv_012c",
+    "created_at": "2026-05-15T11:34:00Z",
+    "updated_at": "2026-05-17T13:00:00Z",
+    "status": "delivered",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-05-15T11:34:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-05-15T12:00:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-05-16T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-05-16T15:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-05-17T13:00:00Z" }
+    ],
+    "total": 2100,
+    "currency": "EGP",
+    "payment_method": "card"
+  },
+  {
+    "id": "ord_015a",
+    "account_id": "account_001",
+    "customer_id": "cust_015",
+    "conversation_id": "conv_015",
+    "created_at": "2026-05-10T13:32:00Z",
+    "updated_at": "2026-05-13T12:00:00Z",
+    "status": "delivered",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-05-10T13:32:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-05-10T14:00:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-05-11T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-05-11T16:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-05-13T12:00:00Z" }
+    ],
+    "total": 920,
+    "currency": "EGP",
+    "payment_method": "cod_cash"
+  },
+  {
+    "id": "ord_015b",
+    "account_id": "account_001",
+    "customer_id": "cust_015",
+    "conversation_id": "conv_015",
+    "created_at": "2026-05-10T13:32:00Z",
+    "updated_at": "2026-05-14T11:30:00Z",
+    "status": "delivered",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-05-10T13:32:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-05-10T14:00:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-05-12T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-05-12T16:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-05-14T11:30:00Z" }
+    ],
+    "total": 320,
+    "currency": "EGP",
+    "payment_method": "cod_cash"
+  },
+  {
+    "id": "ord_017",
+    "account_id": "account_001",
+    "customer_id": "cust_017",
+    "conversation_id": "conv_017",
+    "created_at": "2026-05-15T10:14:00Z",
+    "updated_at": "2026-05-15T10:14:00Z",
+    "status": "pending",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-05-15T10:14:00Z" }
+    ],
+    "total": 1500,
+    "currency": "EGP",
+    "payment_method": "cod_cash"
+  },
+  {
+    "id": "ord_018",
+    "account_id": "account_001",
+    "customer_id": "cust_001",
+    "conversation_id": "conv_018",
+    "created_at": "2026-05-20T18:08:00Z",
+    "updated_at": "2026-05-22T13:00:00Z",
+    "status": "delivered",
+    "status_history": [
+      { "from": null, "to": "pending", "at": "2026-05-20T18:08:00Z" },
+      { "from": "pending", "to": "confirmed", "at": "2026-05-20T18:30:00Z" },
+      { "from": "confirmed", "to": "processing", "at": "2026-05-21T09:00:00Z" },
+      { "from": "processing", "to": "shipped", "at": "2026-05-21T15:00:00Z" },
+      { "from": "shipped", "to": "delivered", "at": "2026-05-22T13:00:00Z" }
+    ],
+    "total": 1800,
+    "currency": "EGP",
+    "payment_method": "card"
+  }
+]
